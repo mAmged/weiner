@@ -62,7 +62,7 @@
     }
   ],
   "main": "./lib/weinre",
-  "name": "remote-inspector",
+  "name": "remoteinspector",
   "repository": {
     "type": "git",
     "url": "https://git-wip-us.apache.org/repos/asf/cordova-weinre.git"
